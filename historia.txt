@@ -1,3 +1,4 @@
 Esta es la historia de Carlos Morán
 carlos Morán nacio hace 40 años en Ecuador
-Hoy hablaremos de su historia
+Hoy hablaremos de su historia.
+este paso es para revisar el comando rm
